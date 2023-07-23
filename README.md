@@ -3,7 +3,6 @@
 ### Who I am
 - [x] Python Developer
 - [x] NodeJS developer
-- [x] ReactJS Developer
 - [x] Full Stack Web Developer
 - [x] Explorer
 
